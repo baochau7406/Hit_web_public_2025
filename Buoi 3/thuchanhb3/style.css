@@ -1,0 +1,22 @@
+p {
+    width: 400px;
+    height: 300px;
+    background-size: cover;
+    background-image: url("https://i.pinimg.com/1200x/e6/34/d3/e634d384fb0c31d7245d70d6f70f830d.jpg");
+    background-repeat: no repeat;
+    background-position: center;
+
+
+}
+
+p {
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+}
+.container{
+    background-color:#416a2a;
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
